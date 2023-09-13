@@ -1,0 +1,41 @@
+body{
+  background: #2f383d;
+  font-family: sans-serif;
+}
+
+h1{
+  color: #879dad;
+}
+
+h2 {
+  text-align: center;
+  color: white;
+}
+
+.creaseBox {
+  display: block;
+  margin: 0 auto;
+  padding-block: 5px;
+  padding-left:10px;
+  padding-right:10px;
+
+  background-color: #132d3a;
+  width: 35%;
+  text-align: center;
+  color: white;
+  border-radius: 5px;
+}
+
+p {
+  text-align: left;
+}
+
+footer{
+  width: 100%;
+  position: absolute;
+  bottom: 0;
+}
+
+.sidebar{
+
+}
