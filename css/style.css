@@ -31,11 +31,17 @@ p {
 }
 
 footer{
-  width: 100%;
   position: absolute;
+  width: 34%;
   bottom: 0;
 }
 
 .sidebar{
+  position: absolute;
+  background-color: #132d3a;
+  border-radius: 10px;
+  overflow: hidden;
+  height: 50%;
+  width: 21%;
 
 }
